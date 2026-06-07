@@ -1,0 +1,3 @@
+*.pbix 
+__pycache__/ 
+*.pyc 

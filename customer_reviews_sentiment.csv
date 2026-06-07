@@ -1,0 +1,1364 @@
+ReviewID,CustomerID,ProductID,ReviewDate,Rating,ReviewText,vader_score,sentiment_category
+1,911,9,2023-07-04,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+2,718,10,2024-04-09,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+3,829,14,2023-05-13,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+4,182,3,2023-12-02,2,Delivery was slow and product did not match the description.,0.0,Neutral
+5,122,7,2024-04-29,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+6,665,11,2024-04-27,1,The quality does not meet expectations I had.,0.0,Neutral
+7,743,18,2023-07-09,1,"Average product, nothing special about it.",-0.3089,Negative
+8,337,16,2023-01-15,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+9,337,4,2024-08-16,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+10,554,13,2024-03-20,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+11,262,13,2023-04-25,4,"Amazing value for money, will buy again.",0.7351,Positive
+12,825,13,2023-05-20,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+13,572,17,2024-09-28,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+14,848,9,2024-07-21,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+15,190,9,2024-11-25,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+16,483,14,2024-09-17,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+17,668,18,2024-07-28,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+18,94,7,2024-06-26,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+19,334,5,2023-10-10,4,"Excellent product, works exactly as described.",0.5719,Positive
+20,118,12,2024-02-12,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+21,911,7,2023-05-13,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+22,343,8,2023-06-10,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+23,5,9,2024-11-21,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+24,771,5,2023-05-02,2,The product broke after just one week of use.,-0.4215,Negative
+25,56,15,2023-06-08,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+26,399,15,2024-12-30,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+27,205,8,2023-07-19,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+28,54,11,2024-07-09,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+29,591,2,2024-08-06,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+30,179,9,2024-10-18,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+31,397,16,2024-06-15,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+32,62,8,2024-01-11,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+33,226,2,2023-06-19,4,"Amazing value for money, will buy again.",0.7351,Positive
+34,19,9,2024-03-31,1,The quality does not meet expectations I had.,0.0,Neutral
+35,204,9,2024-06-30,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+36,224,8,2024-04-04,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+37,760,7,2024-04-04,4,"Amazing value for money, will buy again.",0.7351,Positive
+38,846,1,2024-09-16,4,"Excellent product, works exactly as described.",0.5719,Positive
+39,671,16,2024-06-24,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+40,935,10,2023-06-11,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+41,790,17,2023-08-15,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+42,958,4,2023-10-02,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+43,421,4,2024-10-23,5,"Amazing value for money, will buy again.",0.7351,Positive
+44,1,16,2024-11-03,4,"Amazing value for money, will buy again.",0.7351,Positive
+45,724,2,2024-10-18,2,The product broke after just one week of use.,-0.4215,Negative
+46,47,2,2023-03-13,4,"Amazing value for money, will buy again.",0.7351,Positive
+47,915,14,2024-10-30,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+48,649,18,2024-05-21,4,"Amazing value for money, will buy again.",0.7351,Positive
+49,35,15,2024-05-22,2,"Average product, nothing special about it.",-0.3089,Negative
+50,85,3,2023-03-09,5,"Amazing value for money, will buy again.",0.7351,Positive
+51,838,16,2024-11-11,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+52,355,10,2024-02-26,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+53,861,16,2023-12-29,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+54,370,4,2024-05-13,4,"Amazing value for money, will buy again.",0.7351,Positive
+55,486,10,2024-06-19,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+56,731,18,2024-10-11,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+57,141,6,2024-05-04,5,"Excellent product, works exactly as described.",0.5719,Positive
+58,748,10,2023-12-27,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+59,29,18,2024-06-09,5,"Amazing value for money, will buy again.",0.7351,Positive
+60,676,10,2023-11-10,4,"Excellent product, works exactly as described.",0.5719,Positive
+61,633,17,2024-01-06,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+62,670,16,2023-06-10,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+63,872,10,2024-06-17,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+64,491,16,2023-01-13,4,"Excellent product, works exactly as described.",0.5719,Positive
+65,683,12,2023-07-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+66,196,18,2024-04-14,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+67,565,3,2024-02-29,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+68,85,15,2023-01-03,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+69,692,13,2024-03-16,2,The product broke after just one week of use.,-0.4215,Negative
+70,603,3,2023-06-22,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+71,622,5,2023-11-15,1,The quality does not meet expectations I had.,0.0,Neutral
+72,958,7,2024-06-14,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+73,498,7,2023-06-28,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+74,421,8,2024-09-09,2,"Average product, nothing special about it.",-0.3089,Negative
+75,633,11,2023-03-22,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+76,207,2,2023-02-21,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+77,647,15,2023-02-03,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+78,614,3,2023-12-31,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+79,507,1,2024-04-04,4,"Excellent product, works exactly as described.",0.5719,Positive
+80,446,10,2023-07-12,5,"Excellent product, works exactly as described.",0.5719,Positive
+81,802,15,2024-04-07,2,Disappointed with the performance of this item.,-0.4767,Negative
+82,893,3,2024-04-18,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+83,127,11,2024-06-30,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+84,615,13,2023-10-03,5,"Excellent product, works exactly as described.",0.5719,Positive
+85,804,1,2024-02-03,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+86,293,3,2023-10-24,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+87,405,13,2024-01-25,4,"Excellent product, works exactly as described.",0.5719,Positive
+88,790,17,2024-04-03,2,The quality does not meet expectations I had.,0.0,Neutral
+89,376,1,2023-04-18,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+90,516,8,2023-09-18,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+91,748,11,2024-11-29,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+92,713,4,2024-11-26,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+93,598,15,2023-04-20,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+94,450,18,2024-04-04,5,"Excellent product, works exactly as described.",0.5719,Positive
+95,509,2,2023-07-20,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+96,580,10,2023-03-13,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+97,482,3,2023-11-05,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+98,29,2,2024-07-26,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+99,71,10,2023-09-30,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+100,462,4,2024-10-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+101,479,16,2023-08-10,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+102,642,8,2023-12-04,1,"Overpriced for what you get, very average performance.",0.0,Neutral
+103,311,6,2023-03-06,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+104,479,16,2024-08-22,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+105,153,2,2024-12-04,4,"Excellent product, works exactly as described.",0.5719,Positive
+106,418,16,2024-12-28,1,The product broke after just one week of use.,-0.4215,Negative
+107,716,7,2024-10-19,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+108,865,4,2024-11-30,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+109,14,12,2024-08-23,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+110,279,3,2023-11-24,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+111,183,1,2024-08-24,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+112,933,4,2024-05-22,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+113,266,16,2024-11-23,4,"Amazing value for money, will buy again.",0.7351,Positive
+114,413,3,2023-02-17,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+115,491,3,2024-07-22,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+116,544,4,2024-08-29,2,The product broke after just one week of use.,-0.4215,Negative
+117,738,12,2023-01-12,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+118,771,3,2023-08-06,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+119,287,14,2024-12-29,5,"Excellent product, works exactly as described.",0.5719,Positive
+120,914,14,2024-01-15,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+121,349,13,2024-05-18,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+122,274,1,2023-05-08,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+123,385,14,2023-02-01,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+124,440,4,2023-07-31,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+125,746,6,2024-02-01,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+126,92,17,2024-04-28,4,"Excellent product, works exactly as described.",0.5719,Positive
+127,806,18,2023-05-25,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+128,636,8,2023-10-20,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+129,436,10,2023-07-19,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+130,272,10,2024-07-07,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+131,683,14,2023-11-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+132,883,17,2024-01-08,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+133,648,7,2024-07-10,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+134,561,7,2023-06-22,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+135,322,14,2024-11-27,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+136,586,13,2023-07-23,1,The quality does not meet expectations I had.,0.0,Neutral
+137,574,11,2024-06-01,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+138,637,10,2024-10-14,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+139,837,2,2024-01-20,5,"Excellent product, works exactly as described.",0.5719,Positive
+140,782,4,2023-07-31,4,"Amazing value for money, will buy again.",0.7351,Positive
+141,320,2,2023-03-15,2,Delivery was slow and product did not match the description.,0.0,Neutral
+142,846,15,2024-06-06,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+143,53,9,2024-12-29,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+144,66,13,2023-07-03,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+145,497,14,2024-10-19,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+146,652,5,2023-09-18,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+147,378,7,2023-11-30,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+148,428,18,2023-09-12,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+149,93,6,2023-08-16,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+150,587,5,2023-05-02,4,"Amazing value for money, will buy again.",0.7351,Positive
+151,706,5,2023-04-21,5,"Amazing value for money, will buy again.",0.7351,Positive
+152,796,11,2024-12-19,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+153,196,12,2024-02-03,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+154,331,2,2024-02-05,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+155,726,10,2023-09-08,5,"Amazing value for money, will buy again.",0.7351,Positive
+156,992,16,2024-08-25,5,"Excellent product, works exactly as described.",0.5719,Positive
+157,891,2,2024-10-26,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+158,377,15,2023-10-30,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+159,454,15,2024-02-19,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+160,163,17,2024-01-14,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+161,944,17,2023-07-26,5,"Amazing value for money, will buy again.",0.7351,Positive
+162,553,12,2024-10-15,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+163,63,5,2023-06-12,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+164,701,14,2024-12-24,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+165,821,10,2024-08-24,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+166,645,6,2023-05-02,1,Disappointed with the performance of this item.,-0.4767,Negative
+167,349,6,2023-09-27,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+168,506,1,2024-03-12,2,Delivery was slow and product did not match the description.,0.0,Neutral
+169,848,11,2023-09-24,5,"Excellent product, works exactly as described.",0.5719,Positive
+170,326,12,2023-01-02,4,"Amazing value for money, will buy again.",0.7351,Positive
+171,524,5,2024-05-13,5,"Amazing value for money, will buy again.",0.7351,Positive
+172,364,16,2024-02-27,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+173,890,15,2023-08-03,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+174,499,14,2024-02-02,5,"Amazing value for money, will buy again.",0.7351,Positive
+175,422,2,2023-09-01,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+176,711,4,2024-08-14,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+177,575,8,2024-02-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+178,390,18,2024-02-18,4,"Amazing value for money, will buy again.",0.7351,Positive
+179,426,1,2024-02-10,5,"Amazing value for money, will buy again.",0.7351,Positive
+180,946,15,2023-07-29,5,"Amazing value for money, will buy again.",0.7351,Positive
+181,130,9,2023-02-10,5,"Excellent product, works exactly as described.",0.5719,Positive
+182,129,5,2024-10-28,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+183,804,4,2023-06-14,1,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+184,953,10,2024-06-28,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+185,367,1,2024-03-24,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+186,367,2,2023-10-12,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+187,704,15,2023-10-13,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+188,916,13,2023-11-19,1,"Overpriced for what you get, very average performance.",0.0,Neutral
+189,704,7,2024-03-04,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+190,793,14,2023-01-03,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+191,280,14,2024-02-09,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+192,163,16,2024-07-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+193,939,1,2023-11-24,5,"Amazing value for money, will buy again.",0.7351,Positive
+194,263,12,2024-09-28,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+195,691,5,2024-03-28,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+196,903,14,2023-02-13,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+197,145,16,2023-12-18,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+198,727,9,2023-06-06,1,The product broke after just one week of use.,-0.4215,Negative
+199,625,4,2023-04-02,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+200,842,17,2024-11-03,5,"Amazing value for money, will buy again.",0.7351,Positive
+201,212,7,2024-08-15,2,"Average product, nothing special about it.",-0.3089,Negative
+202,421,2,2024-10-14,5,"Amazing value for money, will buy again.",0.7351,Positive
+203,182,14,2024-02-04,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+204,225,16,2023-03-05,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+205,877,8,2023-04-16,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+206,737,7,2023-04-28,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+207,237,11,2024-06-25,2,The quality does not meet expectations I had.,0.0,Neutral
+208,818,14,2024-05-10,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+209,518,3,2023-05-17,5,"Amazing value for money, will buy again.",0.7351,Positive
+210,456,7,2023-03-08,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+211,541,13,2024-12-20,5,"Amazing value for money, will buy again.",0.7351,Positive
+212,908,5,2024-02-29,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+213,998,11,2023-03-01,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+214,917,6,2024-01-31,5,"Amazing value for money, will buy again.",0.7351,Positive
+215,768,2,2024-12-20,1,"Average product, nothing special about it.",-0.3089,Negative
+216,544,5,2024-06-06,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+217,693,18,2024-09-25,2,"Average product, nothing special about it.",-0.3089,Negative
+218,659,10,2023-02-04,4,"Amazing value for money, will buy again.",0.7351,Positive
+219,927,9,2023-09-19,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+220,511,17,2023-02-19,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+221,426,16,2024-02-14,5,"Amazing value for money, will buy again.",0.7351,Positive
+222,45,3,2024-12-15,5,"Excellent product, works exactly as described.",0.5719,Positive
+223,347,9,2023-04-20,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+224,135,11,2023-04-01,5,"Amazing value for money, will buy again.",0.7351,Positive
+225,541,10,2023-12-10,4,"Excellent product, works exactly as described.",0.5719,Positive
+226,369,6,2023-03-18,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+227,398,4,2023-07-11,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+228,625,8,2023-07-02,5,"Amazing value for money, will buy again.",0.7351,Positive
+229,305,11,2023-03-09,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+230,985,9,2023-01-12,4,"Amazing value for money, will buy again.",0.7351,Positive
+231,918,14,2023-04-03,4,"Amazing value for money, will buy again.",0.7351,Positive
+232,82,18,2024-12-17,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+233,315,16,2024-01-29,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+234,888,11,2024-05-29,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+235,901,10,2023-02-11,5,"Excellent product, works exactly as described.",0.5719,Positive
+236,491,15,2023-11-29,5,"Excellent product, works exactly as described.",0.5719,Positive
+237,417,3,2024-11-11,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+238,956,2,2023-10-20,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+239,814,2,2024-03-23,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+240,89,14,2024-10-09,5,"Amazing value for money, will buy again.",0.7351,Positive
+241,237,8,2024-06-14,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+242,619,4,2024-08-22,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+243,459,5,2023-12-15,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+244,618,5,2023-09-11,5,"Excellent product, works exactly as described.",0.5719,Positive
+245,840,5,2024-05-09,5,"Excellent product, works exactly as described.",0.5719,Positive
+246,846,7,2024-07-30,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+247,390,15,2024-08-08,1,"Average product, nothing special about it.",-0.3089,Negative
+248,619,9,2023-10-26,2,The quality does not meet expectations I had.,0.0,Neutral
+249,508,1,2024-10-24,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+250,775,18,2023-11-27,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+251,956,9,2024-03-10,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+252,795,12,2024-12-22,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+253,373,18,2023-07-23,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+254,375,16,2024-05-28,5,"Amazing value for money, will buy again.",0.7351,Positive
+255,262,6,2023-08-01,5,"Amazing value for money, will buy again.",0.7351,Positive
+256,158,16,2024-06-15,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+257,757,14,2024-08-26,5,"Amazing value for money, will buy again.",0.7351,Positive
+258,209,1,2024-09-11,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+259,685,13,2023-04-21,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+260,806,14,2023-05-28,5,"Amazing value for money, will buy again.",0.7351,Positive
+261,633,3,2023-04-18,4,"Amazing value for money, will buy again.",0.7351,Positive
+262,238,4,2023-10-30,1,The product broke after just one week of use.,-0.4215,Negative
+263,142,9,2024-04-01,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+264,374,8,2024-01-05,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+265,349,14,2023-02-07,4,"Amazing value for money, will buy again.",0.7351,Positive
+266,195,1,2023-09-22,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+267,34,18,2023-04-29,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+268,507,1,2023-06-23,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+269,657,13,2024-09-08,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+270,300,8,2023-02-13,1,The quality does not meet expectations I had.,0.0,Neutral
+271,868,10,2024-05-03,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+272,124,12,2024-08-22,2,Delivery was slow and product did not match the description.,0.0,Neutral
+273,822,3,2024-07-08,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+274,282,8,2024-06-01,4,"Amazing value for money, will buy again.",0.7351,Positive
+275,547,13,2024-08-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+276,306,16,2024-08-10,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+277,152,16,2023-04-14,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+278,729,5,2023-02-12,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+279,184,1,2023-10-15,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+280,847,17,2023-05-24,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+281,325,11,2023-10-24,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+282,119,8,2023-12-23,5,"Excellent product, works exactly as described.",0.5719,Positive
+283,28,13,2023-03-27,4,"Excellent product, works exactly as described.",0.5719,Positive
+284,415,12,2023-04-29,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+285,842,8,2023-06-12,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+286,235,13,2024-07-02,5,"Amazing value for money, will buy again.",0.7351,Positive
+287,123,6,2024-06-21,5,"Excellent product, works exactly as described.",0.5719,Positive
+288,943,1,2024-11-17,4,"Excellent product, works exactly as described.",0.5719,Positive
+289,565,15,2023-09-03,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+290,450,11,2024-05-04,5,"Excellent product, works exactly as described.",0.5719,Positive
+291,246,14,2023-03-14,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+292,454,2,2024-04-09,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+293,772,3,2024-02-17,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+294,500,12,2024-12-13,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+295,350,16,2023-03-17,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+296,873,7,2023-03-12,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+297,232,1,2024-07-11,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+298,309,17,2023-01-20,4,"Amazing value for money, will buy again.",0.7351,Positive
+299,511,9,2023-07-13,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+300,115,18,2023-02-02,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+301,228,9,2024-01-07,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+302,466,13,2023-07-18,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+303,907,4,2024-07-09,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+304,109,4,2023-09-17,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+305,960,1,2023-10-11,4,"Excellent product, works exactly as described.",0.5719,Positive
+306,573,2,2023-06-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+307,845,4,2024-04-23,2,Delivery was slow and product did not match the description.,0.0,Neutral
+308,23,1,2024-02-01,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+309,972,16,2023-04-15,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+310,681,2,2024-10-24,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+311,864,14,2024-09-09,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+312,553,5,2024-07-02,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+313,576,4,2024-07-08,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+314,262,6,2023-11-09,2,The product broke after just one week of use.,-0.4215,Negative
+315,128,10,2023-07-07,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+316,941,11,2023-01-05,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+317,465,10,2023-01-23,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+318,298,4,2023-06-26,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+319,979,12,2024-08-07,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+320,193,11,2023-08-05,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+321,762,17,2023-12-30,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+322,11,11,2023-02-09,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+323,130,6,2024-06-30,5,"Excellent product, works exactly as described.",0.5719,Positive
+324,767,14,2024-07-06,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+325,313,16,2023-02-22,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+326,472,3,2024-08-19,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+327,436,1,2024-12-08,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+328,661,3,2024-11-17,5,"Excellent product, works exactly as described.",0.5719,Positive
+329,623,13,2023-11-17,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+330,221,6,2024-09-22,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+331,234,11,2024-09-02,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+332,884,10,2024-12-15,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+333,755,7,2024-06-21,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+334,476,9,2024-07-15,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+335,22,10,2023-11-24,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+336,722,4,2023-02-23,5,"Amazing value for money, will buy again.",0.7351,Positive
+337,30,1,2023-01-09,5,"Excellent product, works exactly as described.",0.5719,Positive
+338,335,7,2023-08-09,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+339,106,11,2024-06-27,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+340,999,16,2023-06-30,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+341,619,2,2023-06-03,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+342,493,9,2023-04-22,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+343,532,11,2024-06-09,5,"Excellent product, works exactly as described.",0.5719,Positive
+344,661,15,2023-03-03,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+345,618,2,2023-12-15,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+346,369,1,2024-09-02,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+347,984,5,2023-10-10,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+348,664,13,2024-12-01,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+349,76,12,2024-07-14,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+350,889,7,2023-10-28,4,"Excellent product, works exactly as described.",0.5719,Positive
+351,601,18,2024-08-18,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+352,663,2,2023-07-28,5,"Amazing value for money, will buy again.",0.7351,Positive
+353,888,12,2024-06-12,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+354,226,4,2024-09-02,5,"Amazing value for money, will buy again.",0.7351,Positive
+355,401,16,2023-08-29,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+356,703,8,2023-04-09,4,"Amazing value for money, will buy again.",0.7351,Positive
+357,854,16,2023-07-20,5,"Excellent product, works exactly as described.",0.5719,Positive
+358,839,18,2023-06-08,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+359,144,3,2024-09-02,2,The quality does not meet expectations I had.,0.0,Neutral
+360,851,4,2023-05-21,2,Disappointed with the performance of this item.,-0.4767,Negative
+361,430,15,2023-08-06,5,"Amazing value for money, will buy again.",0.7351,Positive
+362,274,9,2023-12-09,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+363,317,9,2023-02-24,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+364,66,11,2024-01-27,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+365,251,14,2023-04-01,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+366,172,10,2023-09-12,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+367,545,7,2023-09-06,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+368,297,18,2024-09-09,4,"Excellent product, works exactly as described.",0.5719,Positive
+369,639,3,2023-11-10,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+370,667,11,2023-03-08,1,Disappointed with the performance of this item.,-0.4767,Negative
+371,575,16,2023-09-29,5,"Amazing value for money, will buy again.",0.7351,Positive
+372,281,11,2023-10-05,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+373,205,14,2023-06-14,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+374,901,16,2023-10-20,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+375,123,16,2023-09-27,4,"Excellent product, works exactly as described.",0.5719,Positive
+376,322,18,2024-04-02,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+377,585,4,2023-09-19,5,"Excellent product, works exactly as described.",0.5719,Positive
+378,790,16,2024-04-28,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+379,279,3,2023-11-19,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+380,885,5,2024-12-09,1,The product broke after just one week of use.,-0.4215,Negative
+381,224,2,2024-10-16,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+382,846,3,2023-08-08,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+383,604,16,2024-01-01,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+384,224,14,2023-10-01,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+385,816,2,2024-05-01,5,"Amazing value for money, will buy again.",0.7351,Positive
+386,816,7,2023-09-13,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+387,26,17,2024-02-06,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+388,39,11,2024-12-08,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+389,782,14,2023-01-05,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+390,425,3,2023-08-17,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+391,318,13,2023-02-13,1,The product broke after just one week of use.,-0.4215,Negative
+392,358,9,2023-09-03,5,"Excellent product, works exactly as described.",0.5719,Positive
+393,285,16,2024-02-22,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+394,454,15,2023-03-15,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+395,439,3,2024-09-09,5,"Amazing value for money, will buy again.",0.7351,Positive
+396,33,10,2023-05-12,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+397,207,18,2024-06-29,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+398,148,18,2023-05-11,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+399,331,4,2023-08-23,1,The product broke after just one week of use.,-0.4215,Negative
+400,17,8,2024-08-22,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+401,690,2,2024-06-29,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+402,399,4,2023-10-10,1,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+403,758,12,2024-05-07,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+404,656,14,2023-03-18,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+405,809,7,2024-03-25,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+406,620,3,2024-01-25,5,"Excellent product, works exactly as described.",0.5719,Positive
+407,124,13,2023-08-11,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+408,57,16,2023-05-02,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+409,56,14,2023-06-06,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+410,201,18,2024-07-06,4,"Amazing value for money, will buy again.",0.7351,Positive
+411,629,5,2024-04-04,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+412,461,4,2023-10-05,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+413,117,10,2024-08-30,5,"Amazing value for money, will buy again.",0.7351,Positive
+414,819,14,2023-08-14,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+415,239,5,2023-08-31,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+416,399,4,2023-10-30,5,"Amazing value for money, will buy again.",0.7351,Positive
+417,330,5,2024-06-26,4,"Amazing value for money, will buy again.",0.7351,Positive
+418,833,6,2024-07-18,5,"Excellent product, works exactly as described.",0.5719,Positive
+419,676,5,2024-08-19,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+420,707,18,2023-06-21,5,"Amazing value for money, will buy again.",0.7351,Positive
+421,350,17,2023-09-17,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+422,21,17,2023-01-19,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+423,602,6,2024-07-06,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+424,602,6,2024-11-24,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+425,326,3,2023-10-18,1,Disappointed with the performance of this item.,-0.4767,Negative
+426,847,17,2024-04-21,5,"Excellent product, works exactly as described.",0.5719,Positive
+427,872,9,2024-02-14,4,"Amazing value for money, will buy again.",0.7351,Positive
+428,989,9,2023-08-31,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+429,681,16,2024-03-07,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+430,906,16,2023-09-13,2,Delivery was slow and product did not match the description.,0.0,Neutral
+431,85,4,2023-06-26,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+432,636,9,2023-11-01,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+433,870,6,2024-10-14,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+434,319,3,2023-09-23,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+435,851,16,2023-11-04,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+436,992,3,2023-03-23,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+437,491,16,2024-01-03,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+438,190,9,2023-11-11,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+439,221,14,2023-06-24,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+440,826,9,2023-10-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+441,483,1,2023-03-15,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+442,350,4,2024-01-14,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+443,59,4,2024-09-23,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+444,107,12,2023-02-25,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+445,857,12,2023-03-13,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+446,272,1,2024-11-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+447,825,9,2023-07-31,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+448,263,8,2024-05-25,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+449,417,14,2024-11-15,4,"Amazing value for money, will buy again.",0.7351,Positive
+450,237,2,2023-12-22,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+451,153,15,2024-01-22,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+452,819,7,2023-09-06,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+453,383,15,2024-02-03,1,The quality does not meet expectations I had.,0.0,Neutral
+454,833,7,2024-06-12,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+455,573,5,2023-11-01,4,"Amazing value for money, will buy again.",0.7351,Positive
+456,281,17,2023-08-13,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+457,960,10,2023-04-19,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+458,572,16,2024-05-19,1,Disappointed with the performance of this item.,-0.4767,Negative
+459,74,8,2024-10-21,1,"Overpriced for what you get, very average performance.",0.0,Neutral
+460,392,8,2023-08-24,4,"Amazing value for money, will buy again.",0.7351,Positive
+461,505,6,2023-07-20,2,The product broke after just one week of use.,-0.4215,Negative
+462,290,14,2024-10-14,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+463,458,14,2024-03-09,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+464,182,15,2024-10-10,1,The quality does not meet expectations I had.,0.0,Neutral
+465,201,6,2023-12-08,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+466,555,2,2024-10-08,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+467,509,18,2023-06-08,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+468,445,4,2023-07-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+469,349,16,2023-03-29,5,"Excellent product, works exactly as described.",0.5719,Positive
+470,915,3,2023-10-11,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+471,869,11,2024-06-04,2,The product broke after just one week of use.,-0.4215,Negative
+472,906,3,2023-03-27,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+473,139,6,2024-10-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+474,91,3,2024-09-28,5,"Excellent product, works exactly as described.",0.5719,Positive
+475,839,12,2024-07-21,5,"Excellent product, works exactly as described.",0.5719,Positive
+476,543,15,2023-09-29,5,"Excellent product, works exactly as described.",0.5719,Positive
+477,63,16,2023-01-28,4,"Excellent product, works exactly as described.",0.5719,Positive
+478,943,4,2023-09-08,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+479,824,1,2023-12-12,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+480,597,14,2024-05-31,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+481,210,1,2023-11-29,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+482,25,16,2023-03-19,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+483,839,13,2024-01-22,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+484,338,14,2023-02-28,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+485,755,13,2023-06-28,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+486,849,15,2024-09-10,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+487,259,13,2023-02-14,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+488,517,3,2023-02-01,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+489,547,16,2023-12-27,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+490,656,14,2024-10-16,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+491,335,6,2023-04-24,1,Disappointed with the performance of this item.,-0.4767,Negative
+492,330,11,2023-06-19,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+493,736,2,2024-07-22,5,"Amazing value for money, will buy again.",0.7351,Positive
+494,723,6,2023-01-02,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+495,470,12,2024-03-09,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+496,508,10,2024-08-23,5,"Amazing value for money, will buy again.",0.7351,Positive
+497,262,14,2024-01-16,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+498,894,6,2023-02-24,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+499,968,9,2023-07-05,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+500,633,1,2024-06-26,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+501,541,9,2023-12-16,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+502,686,4,2023-07-13,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+503,318,8,2023-11-28,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+504,772,9,2023-07-28,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+505,284,18,2023-05-12,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+506,12,6,2024-05-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+507,5,5,2023-02-17,5,"Excellent product, works exactly as described.",0.5719,Positive
+508,661,18,2024-01-31,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+509,569,13,2023-09-07,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+510,299,5,2024-12-06,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+511,794,15,2024-02-17,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+512,145,4,2023-03-25,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+513,208,1,2023-02-28,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+514,613,17,2023-09-06,4,"Amazing value for money, will buy again.",0.7351,Positive
+515,126,10,2024-08-26,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+516,817,8,2024-11-12,4,"Amazing value for money, will buy again.",0.7351,Positive
+517,305,12,2024-11-10,1,The quality does not meet expectations I had.,0.0,Neutral
+518,841,6,2024-08-20,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+519,839,15,2024-12-09,5,"Excellent product, works exactly as described.",0.5719,Positive
+520,703,1,2023-08-07,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+521,698,1,2024-09-25,4,"Amazing value for money, will buy again.",0.7351,Positive
+522,300,4,2024-08-12,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+523,823,4,2023-01-10,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+524,172,16,2023-11-09,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+525,453,9,2024-03-26,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+526,661,18,2024-12-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+527,113,8,2023-07-11,5,"Excellent product, works exactly as described.",0.5719,Positive
+528,423,7,2024-10-10,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+529,225,15,2023-09-24,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+530,396,1,2024-07-23,5,"Amazing value for money, will buy again.",0.7351,Positive
+531,875,14,2023-04-17,4,"Excellent product, works exactly as described.",0.5719,Positive
+532,149,4,2023-03-14,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+533,112,8,2024-11-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+534,175,13,2023-09-09,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+535,88,5,2023-04-20,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+536,806,9,2024-09-16,4,"Amazing value for money, will buy again.",0.7351,Positive
+537,994,9,2023-04-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+538,432,15,2024-04-07,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+539,430,17,2023-06-27,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+540,622,5,2023-03-06,5,"Amazing value for money, will buy again.",0.7351,Positive
+541,358,2,2023-03-25,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+542,716,14,2024-07-29,4,"Excellent product, works exactly as described.",0.5719,Positive
+543,558,3,2023-01-16,2,Disappointed with the performance of this item.,-0.4767,Negative
+544,245,14,2023-08-12,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+545,901,18,2023-08-24,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+546,995,6,2023-04-02,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+547,919,12,2024-11-30,5,"Amazing value for money, will buy again.",0.7351,Positive
+548,376,2,2023-05-10,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+549,501,6,2023-10-15,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+550,882,3,2023-08-15,4,"Amazing value for money, will buy again.",0.7351,Positive
+551,958,7,2023-02-18,4,"Excellent product, works exactly as described.",0.5719,Positive
+552,258,5,2023-06-28,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+553,25,9,2024-08-21,5,"Excellent product, works exactly as described.",0.5719,Positive
+554,879,7,2023-04-15,1,Disappointed with the performance of this item.,-0.4767,Negative
+555,722,7,2023-07-07,5,"Amazing value for money, will buy again.",0.7351,Positive
+556,9,12,2023-03-27,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+557,81,6,2023-05-22,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+558,493,3,2024-03-12,1,The product broke after just one week of use.,-0.4215,Negative
+559,992,14,2024-06-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+560,736,6,2023-09-28,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+561,472,12,2024-08-22,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+562,530,5,2023-12-13,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+563,543,12,2024-08-30,5,"Excellent product, works exactly as described.",0.5719,Positive
+564,522,10,2023-03-22,4,"Amazing value for money, will buy again.",0.7351,Positive
+565,202,17,2024-04-18,1,The quality does not meet expectations I had.,0.0,Neutral
+566,656,1,2024-01-31,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+567,786,17,2023-07-06,4,"Amazing value for money, will buy again.",0.7351,Positive
+568,264,2,2024-06-17,4,"Amazing value for money, will buy again.",0.7351,Positive
+569,17,7,2024-11-08,5,"Amazing value for money, will buy again.",0.7351,Positive
+570,296,15,2023-11-12,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+571,643,18,2024-05-04,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+572,846,3,2023-08-03,1,The quality does not meet expectations I had.,0.0,Neutral
+573,694,17,2023-12-19,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+574,447,13,2023-05-09,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+575,275,18,2023-06-26,1,Delivery was slow and product did not match the description.,0.0,Neutral
+576,547,14,2023-09-09,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+577,775,1,2024-03-25,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+578,688,12,2023-04-08,1,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+579,933,6,2023-03-20,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+580,386,1,2023-12-07,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+581,824,4,2023-05-11,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+582,739,16,2023-03-01,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+583,762,10,2024-11-03,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+584,390,16,2023-01-09,5,"Amazing value for money, will buy again.",0.7351,Positive
+585,309,15,2024-02-12,5,"Amazing value for money, will buy again.",0.7351,Positive
+586,487,9,2023-08-03,5,"Excellent product, works exactly as described.",0.5719,Positive
+587,317,4,2024-11-03,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+588,552,4,2023-07-23,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+589,919,14,2024-12-14,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+590,712,8,2023-06-26,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+591,472,6,2024-08-16,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+592,127,16,2023-01-31,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+593,405,18,2023-03-17,4,"Amazing value for money, will buy again.",0.7351,Positive
+594,473,15,2024-09-02,4,"Amazing value for money, will buy again.",0.7351,Positive
+595,678,8,2024-10-30,4,"Excellent product, works exactly as described.",0.5719,Positive
+596,57,7,2024-10-06,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+597,967,15,2024-12-27,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+598,943,13,2023-04-12,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+599,313,6,2023-12-24,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+600,244,8,2023-08-12,5,"Amazing value for money, will buy again.",0.7351,Positive
+601,894,8,2024-07-23,5,"Excellent product, works exactly as described.",0.5719,Positive
+602,839,18,2023-11-09,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+603,342,2,2024-11-09,4,"Amazing value for money, will buy again.",0.7351,Positive
+604,324,11,2024-01-08,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+605,417,3,2024-09-08,5,"Amazing value for money, will buy again.",0.7351,Positive
+606,657,8,2023-10-31,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+607,354,13,2024-07-30,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+608,362,17,2024-05-09,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+609,328,12,2024-05-10,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+610,911,13,2024-09-10,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+611,834,4,2023-12-27,1,Delivery was slow and product did not match the description.,0.0,Neutral
+612,348,11,2024-10-25,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+613,834,15,2024-06-02,2,The quality does not meet expectations I had.,0.0,Neutral
+614,355,7,2024-04-13,2,Delivery was slow and product did not match the description.,0.0,Neutral
+615,241,16,2023-06-13,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+616,729,16,2024-09-04,1,The product broke after just one week of use.,-0.4215,Negative
+617,778,3,2023-12-25,4,"Amazing value for money, will buy again.",0.7351,Positive
+618,73,7,2023-03-11,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+619,695,2,2024-01-13,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+620,113,17,2023-08-15,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+621,339,15,2023-11-29,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+622,487,5,2024-04-19,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+623,47,1,2023-06-15,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+624,317,6,2024-05-29,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+625,749,17,2024-03-09,2,"Average product, nothing special about it.",-0.3089,Negative
+626,191,14,2024-07-29,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+627,632,4,2024-09-06,4,"Excellent product, works exactly as described.",0.5719,Positive
+628,213,2,2023-03-30,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+629,47,10,2024-08-01,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+630,407,10,2024-08-12,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+631,76,1,2024-06-05,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+632,596,8,2024-02-18,5,"Amazing value for money, will buy again.",0.7351,Positive
+633,602,5,2023-08-21,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+634,871,16,2023-03-17,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+635,608,6,2023-09-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+636,39,11,2023-05-06,4,"Excellent product, works exactly as described.",0.5719,Positive
+637,389,4,2023-01-30,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+638,613,16,2024-10-07,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+639,790,5,2024-06-28,1,"Average product, nothing special about it.",-0.3089,Negative
+640,369,6,2024-10-19,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+641,769,9,2023-06-27,5,"Amazing value for money, will buy again.",0.7351,Positive
+642,355,11,2023-10-14,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+643,572,2,2024-09-09,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+644,204,3,2023-06-27,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+645,398,14,2024-01-09,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+646,841,4,2024-10-08,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+647,105,1,2023-10-29,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+648,111,6,2024-12-26,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+649,853,16,2024-10-01,5,"Excellent product, works exactly as described.",0.5719,Positive
+650,506,15,2024-04-07,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+651,410,7,2024-08-09,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+652,593,4,2024-05-31,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+653,404,9,2023-01-30,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+654,269,16,2024-06-29,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+655,918,6,2023-12-07,4,"Excellent product, works exactly as described.",0.5719,Positive
+656,73,5,2023-06-10,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+657,416,14,2023-03-03,5,"Amazing value for money, will buy again.",0.7351,Positive
+658,234,10,2024-08-12,1,The product broke after just one week of use.,-0.4215,Negative
+659,204,2,2024-02-25,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+660,292,13,2024-02-13,5,"Amazing value for money, will buy again.",0.7351,Positive
+661,876,14,2024-06-26,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+662,476,4,2024-03-18,2,"Average product, nothing special about it.",-0.3089,Negative
+663,511,5,2023-01-12,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+664,2,17,2024-05-31,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+665,747,13,2024-04-28,5,"Amazing value for money, will buy again.",0.7351,Positive
+666,916,8,2023-02-26,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+667,468,1,2023-11-04,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+668,850,18,2024-04-04,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+669,306,14,2023-06-08,2,The quality does not meet expectations I had.,0.0,Neutral
+670,491,14,2023-04-08,4,"Amazing value for money, will buy again.",0.7351,Positive
+671,9,9,2024-07-03,5,"Amazing value for money, will buy again.",0.7351,Positive
+672,565,18,2023-05-12,5,"Excellent product, works exactly as described.",0.5719,Positive
+673,754,10,2024-10-11,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+674,2,10,2024-02-05,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+675,316,14,2023-09-17,4,"Excellent product, works exactly as described.",0.5719,Positive
+676,747,1,2023-07-22,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+677,33,4,2023-06-16,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+678,791,2,2024-04-11,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+679,818,5,2024-09-12,4,"Amazing value for money, will buy again.",0.7351,Positive
+680,10,13,2023-08-09,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+681,596,1,2023-06-17,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+682,693,13,2023-11-04,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+683,841,16,2024-06-17,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+684,384,18,2023-06-01,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+685,974,8,2023-04-29,4,"Amazing value for money, will buy again.",0.7351,Positive
+686,1000,2,2024-02-01,5,"Excellent product, works exactly as described.",0.5719,Positive
+687,441,4,2023-09-12,1,"Overpriced for what you get, very average performance.",0.0,Neutral
+688,661,5,2023-08-01,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+689,305,5,2023-01-11,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+690,854,6,2023-06-02,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+691,515,1,2023-11-03,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+692,126,8,2024-06-15,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+693,404,4,2024-11-19,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+694,57,2,2024-04-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+695,483,5,2024-02-04,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+696,736,16,2024-07-20,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+697,72,6,2024-11-22,2,The quality does not meet expectations I had.,0.0,Neutral
+698,456,4,2023-09-27,4,"Excellent product, works exactly as described.",0.5719,Positive
+699,104,12,2024-11-04,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+700,471,17,2023-07-26,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+701,934,14,2023-05-05,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+702,396,13,2024-03-26,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+703,120,13,2023-09-19,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+704,781,18,2023-11-04,4,"Excellent product, works exactly as described.",0.5719,Positive
+705,594,1,2024-11-02,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+706,61,5,2024-10-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+707,648,14,2024-03-10,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+708,314,18,2024-05-28,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+709,111,8,2024-06-08,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+710,126,13,2023-07-06,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+711,893,9,2023-10-22,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+712,946,15,2023-09-21,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+713,432,8,2023-11-08,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+714,583,13,2024-02-20,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+715,903,6,2023-02-10,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+716,853,16,2023-06-19,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+717,174,10,2023-10-08,1,The product broke after just one week of use.,-0.4215,Negative
+718,325,8,2023-03-09,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+719,16,11,2023-12-03,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+720,120,9,2023-04-25,5,"Excellent product, works exactly as described.",0.5719,Positive
+721,720,12,2023-10-19,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+722,785,3,2023-02-03,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+723,810,18,2024-08-29,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+724,66,8,2024-06-14,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+725,623,11,2024-05-08,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+726,466,11,2023-04-20,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+727,953,4,2024-04-10,5,"Excellent product, works exactly as described.",0.5719,Positive
+728,566,4,2023-10-14,5,"Amazing value for money, will buy again.",0.7351,Positive
+729,882,10,2023-09-04,2,"Average product, nothing special about it.",-0.3089,Negative
+730,783,15,2024-10-09,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+731,706,11,2024-02-12,5,"Amazing value for money, will buy again.",0.7351,Positive
+732,172,11,2024-04-05,4,"Amazing value for money, will buy again.",0.7351,Positive
+733,767,8,2023-08-09,2,The product broke after just one week of use.,-0.4215,Negative
+734,543,2,2023-07-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+735,947,4,2024-03-27,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+736,610,10,2023-08-20,5,"Excellent product, works exactly as described.",0.5719,Positive
+737,789,6,2024-12-20,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+738,28,11,2024-11-25,5,"Amazing value for money, will buy again.",0.7351,Positive
+739,967,12,2023-08-22,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+740,513,7,2024-01-17,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+741,197,15,2023-08-07,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+742,700,9,2023-10-04,2,"Average product, nothing special about it.",-0.3089,Negative
+743,838,1,2024-11-06,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+744,893,12,2024-02-16,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+745,938,11,2023-05-22,4,"Excellent product, works exactly as described.",0.5719,Positive
+746,896,8,2023-08-30,5,"Amazing value for money, will buy again.",0.7351,Positive
+747,103,5,2023-04-08,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+748,677,12,2023-02-15,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+749,696,18,2024-04-09,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+750,903,11,2024-10-24,2,Disappointed with the performance of this item.,-0.4767,Negative
+751,565,14,2023-12-17,2,Disappointed with the performance of this item.,-0.4767,Negative
+752,430,6,2023-03-17,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+753,169,4,2023-08-19,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+754,332,12,2024-03-22,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+755,166,6,2023-11-13,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+756,181,14,2023-12-17,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+757,808,9,2024-01-29,4,"Amazing value for money, will buy again.",0.7351,Positive
+758,131,18,2024-02-14,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+759,849,3,2024-11-28,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+760,945,18,2024-09-08,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+761,708,17,2024-06-17,1,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+762,736,9,2024-08-10,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+763,555,13,2023-10-08,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+764,183,9,2023-11-08,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+765,745,16,2023-08-11,5,"Amazing value for money, will buy again.",0.7351,Positive
+766,243,6,2024-08-06,5,"Amazing value for money, will buy again.",0.7351,Positive
+767,783,17,2024-04-17,2,The quality does not meet expectations I had.,0.0,Neutral
+768,334,2,2024-10-01,4,"Amazing value for money, will buy again.",0.7351,Positive
+769,609,13,2023-01-25,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+770,958,1,2023-12-06,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+771,512,15,2024-06-21,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+772,879,11,2023-03-30,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+773,178,18,2023-10-17,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+774,777,14,2023-10-11,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+775,90,2,2024-01-30,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+776,965,11,2024-04-11,2,"Average product, nothing special about it.",-0.3089,Negative
+777,341,10,2024-06-10,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+778,6,7,2024-08-06,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+779,899,2,2024-06-18,2,The product broke after just one week of use.,-0.4215,Negative
+780,339,4,2024-07-19,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+781,143,14,2023-04-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+782,706,2,2024-11-09,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+783,395,18,2024-07-19,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+784,592,2,2023-04-26,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+785,373,6,2023-09-19,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+786,2,12,2023-08-27,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+787,731,1,2023-09-08,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+788,130,9,2024-05-23,1,"Overpriced for what you get, very average performance.",0.0,Neutral
+789,749,14,2024-05-10,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+790,280,3,2023-03-27,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+791,796,3,2024-05-20,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+792,398,7,2023-02-22,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+793,496,11,2024-07-29,4,"Amazing value for money, will buy again.",0.7351,Positive
+794,191,9,2024-02-16,4,"Amazing value for money, will buy again.",0.7351,Positive
+795,625,3,2023-04-28,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+796,17,2,2024-08-31,1,Disappointed with the performance of this item.,-0.4767,Negative
+797,610,18,2024-07-22,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+798,387,18,2024-10-16,4,"Excellent product, works exactly as described.",0.5719,Positive
+799,28,9,2024-01-31,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+800,721,8,2023-06-26,1,Delivery was slow and product did not match the description.,0.0,Neutral
+801,555,1,2023-09-14,2,Delivery was slow and product did not match the description.,0.0,Neutral
+802,441,9,2024-09-12,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+803,198,3,2024-06-05,1,"Average product, nothing special about it.",-0.3089,Negative
+804,436,6,2024-08-24,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+805,912,16,2023-11-23,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+806,903,5,2023-07-09,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+807,350,16,2023-06-14,1,Delivery was slow and product did not match the description.,0.0,Neutral
+808,653,18,2023-06-15,5,"Excellent product, works exactly as described.",0.5719,Positive
+809,240,16,2024-12-09,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+810,22,14,2023-03-20,4,"Excellent product, works exactly as described.",0.5719,Positive
+811,114,16,2023-07-13,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+812,691,15,2023-08-02,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+813,391,6,2024-07-01,4,"Excellent product, works exactly as described.",0.5719,Positive
+814,784,14,2023-12-13,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+815,465,3,2023-04-20,1,The product broke after just one week of use.,-0.4215,Negative
+816,690,9,2024-08-02,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+817,720,12,2024-03-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+818,118,11,2024-08-22,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+819,810,3,2023-05-22,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+820,648,5,2024-09-28,5,"Amazing value for money, will buy again.",0.7351,Positive
+821,280,15,2023-06-11,5,"Excellent product, works exactly as described.",0.5719,Positive
+822,816,7,2024-02-12,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+823,342,12,2023-06-25,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+824,405,10,2024-08-24,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+825,103,5,2023-11-09,5,"Amazing value for money, will buy again.",0.7351,Positive
+826,997,16,2024-07-03,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+827,383,13,2023-11-17,4,"Amazing value for money, will buy again.",0.7351,Positive
+828,60,17,2023-08-28,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+829,596,3,2023-03-05,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+830,961,4,2024-02-11,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+831,971,12,2023-04-23,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+832,628,12,2023-06-13,5,"Amazing value for money, will buy again.",0.7351,Positive
+833,230,9,2023-06-20,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+834,475,8,2023-07-08,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+835,419,8,2024-11-20,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+836,874,16,2024-08-07,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+837,361,15,2024-10-27,4,"Amazing value for money, will buy again.",0.7351,Positive
+838,721,9,2024-02-27,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+839,148,1,2023-11-20,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+840,188,10,2024-06-26,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+841,180,17,2024-09-29,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+842,866,4,2023-05-22,4,"Excellent product, works exactly as described.",0.5719,Positive
+843,695,9,2024-11-13,4,"Amazing value for money, will buy again.",0.7351,Positive
+844,548,17,2024-05-04,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+845,525,15,2023-07-10,1,The quality does not meet expectations I had.,0.0,Neutral
+846,830,17,2023-10-23,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+847,716,13,2024-11-29,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+848,420,10,2024-04-13,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+849,18,18,2024-12-15,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+850,710,18,2023-02-15,5,"Amazing value for money, will buy again.",0.7351,Positive
+851,274,11,2023-06-30,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+852,286,4,2023-05-16,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+853,158,17,2024-09-18,5,"Amazing value for money, will buy again.",0.7351,Positive
+854,439,3,2024-04-04,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+855,224,12,2024-04-04,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+856,342,12,2024-03-06,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+857,208,14,2024-04-20,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+858,163,15,2023-12-24,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+859,923,13,2024-12-05,2,The quality does not meet expectations I had.,0.0,Neutral
+860,698,12,2023-01-27,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+861,909,14,2024-06-07,4,"Excellent product, works exactly as described.",0.5719,Positive
+862,510,14,2024-03-24,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+863,682,14,2023-09-15,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+864,907,14,2023-01-19,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+865,207,16,2024-07-13,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+866,494,5,2023-12-21,4,"Excellent product, works exactly as described.",0.5719,Positive
+867,790,1,2023-12-24,4,"Amazing value for money, will buy again.",0.7351,Positive
+868,269,16,2023-05-03,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+869,126,13,2024-02-14,1,Delivery was slow and product did not match the description.,0.0,Neutral
+870,204,8,2023-11-06,4,"Amazing value for money, will buy again.",0.7351,Positive
+871,883,5,2023-03-17,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+872,24,13,2023-03-04,1,"Average product, nothing special about it.",-0.3089,Negative
+873,401,4,2024-09-09,4,"Amazing value for money, will buy again.",0.7351,Positive
+874,763,12,2024-12-18,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+875,712,11,2023-04-09,5,"Excellent product, works exactly as described.",0.5719,Positive
+876,567,3,2023-08-27,4,"Amazing value for money, will buy again.",0.7351,Positive
+877,389,18,2023-04-12,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+878,404,12,2024-09-23,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+879,718,5,2024-04-04,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+880,28,10,2023-10-04,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+881,191,8,2024-10-22,5,"Excellent product, works exactly as described.",0.5719,Positive
+882,114,12,2023-09-17,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+883,986,10,2023-07-20,4,"Excellent product, works exactly as described.",0.5719,Positive
+884,520,7,2024-03-08,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+885,609,1,2023-02-11,1,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+886,964,14,2024-12-21,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+887,620,13,2024-07-12,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+888,653,16,2023-06-28,4,"Excellent product, works exactly as described.",0.5719,Positive
+889,295,5,2024-04-13,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+890,769,12,2024-04-17,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+891,444,18,2023-05-31,1,The product broke after just one week of use.,-0.4215,Negative
+892,522,11,2024-04-02,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+893,58,7,2024-03-23,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+894,634,10,2023-04-22,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+895,779,11,2023-04-28,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+896,823,11,2023-11-28,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+897,161,5,2024-03-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+898,176,5,2023-02-21,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+899,409,10,2023-08-16,1,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+900,59,12,2024-10-09,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+901,305,3,2023-01-31,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+902,27,13,2023-07-14,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+903,83,5,2023-03-02,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+904,159,8,2024-05-31,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+905,605,4,2024-08-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+906,203,10,2023-01-16,5,"Excellent product, works exactly as described.",0.5719,Positive
+907,646,5,2023-08-22,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+908,860,2,2023-01-25,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+909,981,9,2024-03-21,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+910,774,10,2024-08-13,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+911,31,18,2024-12-16,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+912,54,18,2024-03-16,5,"Excellent product, works exactly as described.",0.5719,Positive
+913,511,11,2024-02-15,5,"Excellent product, works exactly as described.",0.5719,Positive
+914,560,9,2024-08-05,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+915,663,4,2023-05-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+916,57,17,2023-12-12,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+917,7,17,2023-06-21,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+918,477,9,2024-06-28,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+919,924,9,2023-05-27,5,"Amazing value for money, will buy again.",0.7351,Positive
+920,496,4,2023-06-24,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+921,380,4,2023-06-14,4,"Excellent product, works exactly as described.",0.5719,Positive
+922,345,3,2023-07-28,1,Delivery was slow and product did not match the description.,0.0,Neutral
+923,862,4,2024-03-01,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+924,336,16,2023-09-14,2,Delivery was slow and product did not match the description.,0.0,Neutral
+925,735,16,2023-05-06,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+926,43,17,2023-08-01,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+927,958,1,2024-03-08,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+928,579,13,2023-09-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+929,553,14,2023-11-07,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+930,567,6,2023-02-22,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+931,253,14,2024-11-02,5,"Amazing value for money, will buy again.",0.7351,Positive
+932,551,13,2023-10-26,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+933,914,10,2023-11-21,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+934,708,13,2023-12-29,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+935,411,16,2023-11-22,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+936,154,18,2024-03-17,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+937,772,9,2024-02-11,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+938,124,7,2023-03-28,4,"Excellent product, works exactly as described.",0.5719,Positive
+939,704,7,2023-12-27,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+940,445,15,2023-05-21,4,"Excellent product, works exactly as described.",0.5719,Positive
+941,630,11,2023-12-07,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+942,785,7,2024-06-16,4,"Excellent product, works exactly as described.",0.5719,Positive
+943,587,18,2024-10-12,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+944,948,4,2023-10-23,4,"Excellent product, works exactly as described.",0.5719,Positive
+945,827,15,2024-10-22,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+946,815,11,2023-04-07,4,"Excellent product, works exactly as described.",0.5719,Positive
+947,297,9,2023-03-18,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+948,562,11,2023-07-30,1,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+949,54,11,2024-11-05,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+950,130,15,2023-10-01,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+951,145,11,2024-06-20,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+952,430,18,2024-03-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+953,902,8,2023-09-29,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+954,160,17,2024-06-07,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+955,950,1,2024-06-10,1,The quality does not meet expectations I had.,0.0,Neutral
+956,251,4,2024-01-21,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+957,204,11,2023-12-27,5,"Amazing value for money, will buy again.",0.7351,Positive
+958,476,14,2023-02-13,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+959,131,17,2024-03-21,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+960,911,18,2023-09-01,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+961,702,18,2023-11-21,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+962,6,1,2024-05-01,4,"Amazing value for money, will buy again.",0.7351,Positive
+963,699,11,2024-05-18,5,"Excellent product, works exactly as described.",0.5719,Positive
+964,336,17,2023-10-08,4,"Amazing value for money, will buy again.",0.7351,Positive
+965,341,1,2024-07-07,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+966,973,1,2024-08-05,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+967,135,17,2023-08-30,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+968,697,6,2023-05-06,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+969,635,11,2024-09-22,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+970,891,5,2023-10-21,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+971,428,5,2023-09-25,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+972,832,3,2023-08-12,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+973,833,11,2023-08-23,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+974,714,17,2024-02-11,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+975,345,17,2023-04-22,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+976,160,2,2023-06-07,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+977,692,4,2024-06-29,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+978,421,6,2023-11-04,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+979,306,1,2024-10-22,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+980,68,8,2023-06-17,5,"Excellent product, works exactly as described.",0.5719,Positive
+981,276,12,2024-03-11,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+982,967,15,2024-08-13,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+983,700,10,2024-07-25,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+984,70,6,2023-05-21,5,"Amazing value for money, will buy again.",0.7351,Positive
+985,807,12,2024-05-25,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+986,621,16,2023-11-22,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+987,158,4,2024-02-04,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+988,65,18,2023-09-22,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+989,115,2,2023-11-16,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+990,151,14,2023-09-17,1,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+991,257,9,2023-06-15,2,"Average product, nothing special about it.",-0.3089,Negative
+992,184,16,2023-04-01,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+993,689,15,2023-08-25,2,The quality does not meet expectations I had.,0.0,Neutral
+994,917,16,2023-06-19,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+995,403,15,2024-05-22,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+996,465,14,2024-01-18,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+997,828,1,2023-02-04,5,"Excellent product, works exactly as described.",0.5719,Positive
+998,694,12,2024-07-16,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+999,592,15,2024-01-26,4,"Amazing value for money, will buy again.",0.7351,Positive
+1000,536,17,2023-03-04,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+1001,101,17,2024-09-30,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1002,5,7,2023-08-14,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1003,639,5,2023-12-06,4,"Excellent product, works exactly as described.",0.5719,Positive
+1004,986,8,2023-08-29,5,"Amazing value for money, will buy again.",0.7351,Positive
+1005,141,8,2023-11-09,1,Disappointed with the performance of this item.,-0.4767,Negative
+1006,721,11,2023-03-29,1,The quality does not meet expectations I had.,0.0,Neutral
+1007,464,9,2024-06-11,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1008,84,7,2023-04-13,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+1009,539,15,2024-05-27,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+1010,80,15,2024-05-25,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1011,632,5,2024-03-27,4,"Excellent product, works exactly as described.",0.5719,Positive
+1012,51,3,2023-09-07,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1013,717,17,2024-05-15,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1014,885,4,2023-03-11,5,"Amazing value for money, will buy again.",0.7351,Positive
+1015,934,3,2023-05-15,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1016,465,9,2024-10-06,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1017,6,14,2024-06-27,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1018,923,7,2024-01-07,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1019,814,9,2023-01-18,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1020,575,8,2023-09-15,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1021,600,10,2024-02-14,5,"Excellent product, works exactly as described.",0.5719,Positive
+1022,829,1,2023-01-23,4,"Excellent product, works exactly as described.",0.5719,Positive
+1023,174,5,2024-08-16,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1024,267,10,2023-03-16,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1025,760,10,2024-02-16,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1026,80,17,2023-01-04,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1027,159,8,2023-02-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+1028,638,8,2023-04-07,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1029,76,11,2023-11-24,5,"Amazing value for money, will buy again.",0.7351,Positive
+1030,150,3,2023-05-29,4,"Excellent product, works exactly as described.",0.5719,Positive
+1031,63,10,2023-06-10,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1032,511,18,2023-12-04,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1033,645,4,2023-10-20,1,The quality does not meet expectations I had.,0.0,Neutral
+1034,860,15,2024-01-19,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1035,840,6,2024-10-24,4,"Amazing value for money, will buy again.",0.7351,Positive
+1036,610,7,2024-03-04,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1037,291,13,2023-08-01,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1038,492,7,2023-11-20,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1039,491,2,2023-10-08,5,"Amazing value for money, will buy again.",0.7351,Positive
+1040,248,7,2024-09-25,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1041,754,6,2023-01-18,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1042,224,2,2023-05-17,4,"Amazing value for money, will buy again.",0.7351,Positive
+1043,693,8,2024-05-17,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1044,590,1,2023-08-10,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1045,94,1,2024-08-13,5,"Excellent product, works exactly as described.",0.5719,Positive
+1046,94,6,2024-03-19,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1047,475,13,2023-03-20,2,Disappointed with the performance of this item.,-0.4767,Negative
+1048,956,16,2023-07-18,5,"Amazing value for money, will buy again.",0.7351,Positive
+1049,812,8,2023-03-27,5,"Amazing value for money, will buy again.",0.7351,Positive
+1050,664,5,2023-07-12,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+1051,589,1,2023-09-25,5,"Amazing value for money, will buy again.",0.7351,Positive
+1052,377,8,2024-09-30,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1053,549,5,2023-10-22,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1054,828,2,2023-05-03,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1055,619,4,2023-11-13,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1056,494,8,2024-10-18,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1057,550,5,2024-10-02,5,"Amazing value for money, will buy again.",0.7351,Positive
+1058,595,4,2024-08-15,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1059,102,2,2024-01-27,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1060,693,13,2023-05-01,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1061,887,2,2023-11-03,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1062,457,11,2023-05-14,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1063,820,2,2024-06-19,5,"Excellent product, works exactly as described.",0.5719,Positive
+1064,793,5,2023-10-29,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1065,246,8,2023-01-22,4,"Amazing value for money, will buy again.",0.7351,Positive
+1066,948,12,2024-01-20,5,"Amazing value for money, will buy again.",0.7351,Positive
+1067,113,13,2023-08-26,4,"Excellent product, works exactly as described.",0.5719,Positive
+1068,408,11,2023-01-14,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1069,428,7,2024-02-27,1,Disappointed with the performance of this item.,-0.4767,Negative
+1070,488,13,2023-10-12,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1071,18,3,2024-02-06,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+1072,654,15,2023-03-06,2,The product broke after just one week of use.,-0.4215,Negative
+1073,713,18,2024-05-04,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1074,320,16,2023-10-07,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1075,247,5,2024-01-13,4,"Amazing value for money, will buy again.",0.7351,Positive
+1076,186,10,2023-06-08,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1077,561,13,2023-02-07,1,"Average product, nothing special about it.",-0.3089,Negative
+1078,809,14,2024-03-12,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1079,955,17,2023-10-10,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1080,883,16,2024-09-20,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1081,451,14,2023-04-28,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1082,123,1,2023-05-01,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1083,342,17,2024-07-04,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1084,528,4,2023-03-03,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1085,326,14,2023-05-30,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1086,426,3,2023-02-02,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1087,373,8,2024-05-18,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1088,451,2,2024-12-06,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1089,141,11,2023-05-16,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1090,284,2,2024-01-13,1,The product broke after just one week of use.,-0.4215,Negative
+1091,375,18,2024-10-19,4,"Excellent product, works exactly as described.",0.5719,Positive
+1092,405,11,2024-02-01,4,"Amazing value for money, will buy again.",0.7351,Positive
+1093,129,3,2024-05-06,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+1094,487,15,2024-05-25,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1095,484,9,2023-05-31,4,"Amazing value for money, will buy again.",0.7351,Positive
+1096,607,7,2024-03-16,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1097,52,9,2024-07-02,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1098,342,18,2023-07-02,2,Disappointed with the performance of this item.,-0.4767,Negative
+1099,382,1,2023-03-03,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1100,282,8,2023-07-16,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1101,341,1,2023-09-11,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1102,269,9,2024-01-03,5,"Excellent product, works exactly as described.",0.5719,Positive
+1103,958,15,2023-05-20,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+1104,354,16,2023-11-11,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1105,88,10,2024-02-24,5,"Excellent product, works exactly as described.",0.5719,Positive
+1106,4,18,2023-05-15,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1107,957,8,2024-02-18,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+1108,422,17,2023-11-11,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1109,448,1,2024-10-29,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1110,702,16,2024-12-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1111,571,6,2023-04-27,2,The quality does not meet expectations I had.,0.0,Neutral
+1112,640,12,2023-02-18,4,"Excellent product, works exactly as described.",0.5719,Positive
+1113,400,4,2024-12-15,1,Disappointed with the performance of this item.,-0.4767,Negative
+1114,567,2,2023-09-25,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1115,973,7,2024-03-15,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1116,622,11,2023-08-03,1,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1117,803,6,2024-06-14,2,The product broke after just one week of use.,-0.4215,Negative
+1118,762,10,2024-12-03,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1119,273,18,2023-10-05,1,The quality does not meet expectations I had.,0.0,Neutral
+1120,24,15,2023-04-30,4,"Excellent product, works exactly as described.",0.5719,Positive
+1121,5,6,2024-05-14,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1122,432,10,2023-05-21,5,"Amazing value for money, will buy again.",0.7351,Positive
+1123,682,13,2023-01-07,1,"Overpriced for what you get, very average performance.",0.0,Neutral
+1124,354,18,2024-02-03,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1125,639,18,2023-01-22,1,Delivery was slow and product did not match the description.,0.0,Neutral
+1126,203,18,2023-07-23,4,"Amazing value for money, will buy again.",0.7351,Positive
+1127,971,8,2023-02-22,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1128,997,2,2023-04-22,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1129,634,15,2023-08-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+1130,460,5,2024-12-28,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1131,578,16,2024-09-01,5,"Amazing value for money, will buy again.",0.7351,Positive
+1132,817,11,2023-12-09,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1133,40,3,2023-04-02,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1134,261,12,2024-07-26,2,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+1135,577,3,2023-07-12,5,"Amazing value for money, will buy again.",0.7351,Positive
+1136,281,5,2024-05-11,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1137,656,2,2024-02-05,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1138,357,16,2024-08-22,1,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1139,138,15,2024-07-05,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1140,804,10,2024-02-17,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1141,944,4,2023-12-27,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1142,500,11,2024-03-17,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1143,574,16,2023-05-02,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1144,897,2,2023-03-12,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1145,254,13,2023-02-09,2,The product broke after just one week of use.,-0.4215,Negative
+1146,32,7,2024-11-13,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1147,487,17,2024-12-15,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1148,325,7,2023-08-23,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1149,422,5,2023-11-01,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+1150,476,5,2023-11-13,1,"Average product, nothing special about it.",-0.3089,Negative
+1151,437,6,2024-02-23,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1152,157,17,2023-12-25,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1153,558,14,2023-10-21,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1154,770,4,2024-06-17,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1155,812,11,2024-01-12,5,"Excellent product, works exactly as described.",0.5719,Positive
+1156,148,17,2024-10-18,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1157,773,15,2023-03-13,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1158,384,5,2024-03-22,5,"Amazing value for money, will buy again.",0.7351,Positive
+1159,306,12,2024-01-08,4,"Excellent product, works exactly as described.",0.5719,Positive
+1160,247,6,2024-09-18,5,"Excellent product, works exactly as described.",0.5719,Positive
+1161,474,2,2023-10-20,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1162,859,1,2023-07-27,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1163,181,18,2024-03-23,5,"Amazing value for money, will buy again.",0.7351,Positive
+1164,103,14,2023-12-15,5,"Excellent product, works exactly as described.",0.5719,Positive
+1165,89,17,2023-07-14,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1166,729,14,2023-12-16,1,Delivery was slow and product did not match the description.,0.0,Neutral
+1167,681,11,2024-10-05,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1168,757,10,2023-01-22,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1169,108,15,2024-03-04,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1170,48,16,2024-11-14,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1171,719,13,2024-11-26,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1172,457,5,2023-04-03,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+1173,615,9,2023-03-28,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1174,428,10,2024-08-01,1,The product broke after just one week of use.,-0.4215,Negative
+1175,523,5,2024-12-12,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1176,400,3,2023-02-17,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1177,743,6,2023-01-12,4,"Amazing value for money, will buy again.",0.7351,Positive
+1178,819,7,2023-11-19,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1179,352,3,2023-10-02,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1180,46,15,2024-11-09,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1181,100,12,2023-04-10,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1182,13,18,2024-03-14,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1183,875,10,2023-03-04,5,"Excellent product, works exactly as described.",0.5719,Positive
+1184,561,7,2023-06-25,4,"Amazing value for money, will buy again.",0.7351,Positive
+1185,819,12,2023-01-06,2,Delivery was slow and product did not match the description.,0.0,Neutral
+1186,573,1,2023-09-10,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1187,807,1,2024-08-09,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1188,740,4,2024-11-10,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1189,183,14,2024-08-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+1190,52,14,2023-08-21,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1191,270,10,2023-05-11,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1192,672,3,2023-12-28,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1193,562,7,2023-06-10,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1194,660,8,2023-01-26,5,"Amazing value for money, will buy again.",0.7351,Positive
+1195,938,2,2023-10-21,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1196,241,16,2024-03-21,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1197,701,1,2023-12-31,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1198,497,3,2023-08-22,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1199,223,18,2024-12-25,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1200,386,16,2023-05-19,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1201,891,15,2023-04-11,5,"Amazing value for money, will buy again.",0.7351,Positive
+1202,920,15,2023-02-11,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1203,966,7,2023-03-19,4,"Amazing value for money, will buy again.",0.7351,Positive
+1204,943,9,2023-05-26,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1205,227,14,2023-01-21,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1206,650,16,2024-04-24,4,"Excellent product, works exactly as described.",0.5719,Positive
+1207,220,4,2023-01-21,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1208,97,5,2024-03-09,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1209,381,18,2023-03-13,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1210,888,6,2024-04-14,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1211,578,3,2023-11-19,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1212,41,18,2023-08-11,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1213,231,10,2023-12-10,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1214,833,2,2023-07-11,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1215,329,14,2023-08-23,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1216,407,9,2024-08-03,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1217,814,10,2024-10-14,4,"Amazing value for money, will buy again.",0.7351,Positive
+1218,570,6,2024-10-07,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1219,538,16,2024-05-08,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1220,741,11,2024-05-09,5,"Excellent product, works exactly as described.",0.5719,Positive
+1221,466,9,2023-07-02,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1222,333,18,2024-05-03,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1223,618,18,2023-09-19,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1224,496,10,2023-06-16,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1225,652,18,2023-11-05,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1226,52,10,2024-02-15,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1227,172,11,2023-03-01,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1228,782,4,2024-01-06,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1229,19,13,2024-10-01,1,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+1230,395,3,2024-05-07,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1231,807,4,2023-12-21,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+1232,98,9,2023-11-07,1,The quality does not meet expectations I had.,0.0,Neutral
+1233,777,3,2023-11-21,2,The product broke after just one week of use.,-0.4215,Negative
+1234,21,14,2024-06-11,4,"Amazing value for money, will buy again.",0.7351,Positive
+1235,107,16,2024-10-21,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1236,17,16,2024-02-09,2,"Average product, nothing special about it.",-0.3089,Negative
+1237,47,2,2024-10-07,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1238,711,18,2023-06-20,4,"Excellent product, works exactly as described.",0.5719,Positive
+1239,919,6,2024-10-02,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1240,618,13,2024-09-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1241,437,1,2023-11-07,2,Disappointed with the performance of this item.,-0.4767,Negative
+1242,753,11,2024-11-01,4,"Excellent product, works exactly as described.",0.5719,Positive
+1243,137,4,2024-03-23,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1244,92,16,2023-08-05,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1245,530,7,2024-02-09,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1246,461,5,2024-08-06,3,Quality is acceptable but expected better for this price.,0.6705,Mixed Positive
+1247,858,18,2023-11-16,5,"Amazing value for money, will buy again.",0.7351,Positive
+1248,592,17,2024-05-08,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1249,805,11,2024-11-02,2,The product broke after just one week of use.,-0.4215,Negative
+1250,851,17,2024-09-06,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1251,444,4,2023-06-15,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1252,19,10,2023-05-07,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1253,289,5,2023-04-19,2,Disappointed with the performance of this item.,-0.4767,Negative
+1254,710,17,2023-10-16,2,The quality does not meet expectations I had.,0.0,Neutral
+1255,776,1,2023-07-12,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1256,588,2,2023-04-16,4,"Amazing value for money, will buy again.",0.7351,Positive
+1257,710,6,2024-11-26,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1258,409,11,2023-05-27,2,Delivery was slow and product did not match the description.,0.0,Neutral
+1259,271,11,2023-12-18,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1260,802,16,2023-05-02,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1261,215,3,2023-02-06,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1262,817,8,2023-09-17,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1263,100,3,2024-04-19,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1264,621,7,2023-11-23,4,"Excellent product, works exactly as described.",0.5719,Positive
+1265,203,1,2024-12-18,2,"Product quality is average at best, not worth the price.",0.5475,Mixed Positive
+1266,594,11,2024-11-18,4,"Excellent product, works exactly as described.",0.5719,Positive
+1267,433,8,2024-02-12,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1268,786,13,2023-09-25,4,"Excellent product, works exactly as described.",0.5719,Positive
+1269,829,9,2023-12-06,4,"Excellent product, works exactly as described.",0.5719,Positive
+1270,962,9,2024-06-25,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1271,521,2,2024-02-19,5,"Excellent product, works exactly as described.",0.5719,Positive
+1272,801,7,2023-07-11,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+1273,559,13,2023-04-30,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1274,169,6,2023-05-29,2,The product broke after just one week of use.,-0.4215,Negative
+1275,663,16,2023-02-18,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1276,423,15,2024-08-29,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1277,837,3,2024-12-28,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1278,832,4,2024-10-23,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1279,202,15,2023-12-26,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1280,886,2,2023-04-16,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1281,935,10,2024-02-19,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1282,271,4,2024-02-09,4,"Excellent product, works exactly as described.",0.5719,Positive
+1283,777,16,2024-11-21,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1284,417,12,2024-02-12,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1285,108,7,2023-10-03,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1286,862,3,2023-07-01,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1287,491,6,2024-11-19,1,The quality does not meet expectations I had.,0.0,Neutral
+1288,468,16,2024-06-29,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1289,908,12,2023-10-02,3,Works fine but instructions were confusing.,-0.2382,Mixed Negative
+1290,94,8,2024-03-17,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1291,365,9,2024-06-02,5,"Fantastic product, my whole family loves it.",0.8074,Positive
+1292,881,16,2024-04-29,5,"Amazing value for money, will buy again.",0.7351,Positive
+1293,618,15,2023-07-27,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1294,633,9,2023-04-05,5,"Amazing value for money, will buy again.",0.7351,Positive
+1295,892,6,2023-06-11,5,"Excellent product, works exactly as described.",0.5719,Positive
+1296,973,4,2023-01-06,1,"Average product, nothing special about it.",-0.3089,Negative
+1297,73,3,2024-04-03,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1298,103,8,2023-04-10,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1299,123,5,2023-02-09,2,Disappointed with the performance of this item.,-0.4767,Negative
+1300,576,4,2024-11-19,2,"Poor performance, would not recommend this to anyone.",-0.6381,Negative
+1301,59,8,2024-04-28,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1302,807,5,2024-01-26,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1303,759,3,2023-11-28,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1304,51,16,2023-01-19,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1305,27,2,2024-07-22,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1306,581,14,2023-01-04,4,"Excellent product, works exactly as described.",0.5719,Positive
+1307,644,4,2024-05-30,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1308,121,6,2023-11-13,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1309,218,8,2023-07-13,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1310,99,5,2023-06-23,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1311,253,15,2024-01-10,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1312,825,15,2024-11-21,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1313,154,2,2023-03-26,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1314,48,10,2023-11-13,1,"Did not meet my expectations at all, very disappointed.",-0.5256,Negative
+1315,69,1,2024-01-23,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1316,843,2,2024-11-16,5,"Excellent product, works exactly as described.",0.5719,Positive
+1317,6,7,2023-09-26,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1318,418,11,2024-07-09,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1319,717,4,2024-08-02,5,"Top quality item, very satisfied with my order.",0.5984,Positive
+1320,860,4,2023-06-07,5,"Amazing value for money, will buy again.",0.7351,Positive
+1321,968,2,2023-02-21,2,"Average product, nothing special about it.",-0.3089,Negative
+1322,519,8,2023-05-14,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1323,483,16,2023-04-15,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+1324,805,2,2023-11-01,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1325,18,12,2023-07-14,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1326,959,16,2024-01-10,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1327,659,12,2024-09-11,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1328,756,12,2023-11-28,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1329,950,13,2024-11-26,1,Delivery was slow and product did not match the description.,0.0,Neutral
+1330,744,18,2024-03-18,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1331,556,14,2023-11-02,4,"Top quality item, very satisfied with my order.",0.5984,Positive
+1332,688,18,2024-05-31,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+1333,129,16,2023-06-29,1,Delivery was slow and product did not match the description.,0.0,Neutral
+1334,946,1,2023-06-05,2,"Overpriced for what you get, very average performance.",0.0,Neutral
+1335,657,12,2024-03-10,5,"Amazing value for money, will buy again.",0.7351,Positive
+1336,632,15,2023-08-29,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1337,72,8,2023-09-15,4,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1338,254,3,2023-04-23,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1339,483,12,2023-06-25,4,"Excellent product, works exactly as described.",0.5719,Positive
+1340,521,13,2024-08-03,5,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1341,201,18,2024-01-01,4,"Excellent product, works exactly as described.",0.5719,Positive
+1342,671,17,2024-02-12,4,"Amazing value for money, will buy again.",0.7351,Positive
+1343,138,14,2024-01-24,5,"Amazing value for money, will buy again.",0.7351,Positive
+1344,479,8,2023-10-13,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1345,402,18,2023-01-29,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+1346,532,5,2023-03-26,4,"Great quality and fast delivery, highly recommend.",0.7841,Positive
+1347,533,2,2024-02-12,3,"Product is okay, nothing special but does the job.",-0.0462,Neutral
+1348,699,2,2023-01-22,2,"Not satisfied, expected much better quality.",0.1451,Mixed Positive
+1349,258,10,2023-12-12,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1350,250,8,2023-03-25,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1351,121,2,2023-10-17,5,"Amazing value for money, will buy again.",0.7351,Positive
+1352,135,5,2023-04-30,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1353,363,13,2024-12-13,3,Decent quality but delivery took longer than expected.,0.0,Neutral
+1354,25,13,2023-11-09,4,"Fantastic product, my whole family loves it.",0.8074,Positive
+1355,370,1,2023-01-21,5,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1356,592,5,2024-04-23,4,"Amazing value for money, will buy again.",0.7351,Positive
+1357,48,8,2024-07-23,2,Delivery was slow and product did not match the description.,0.0,Neutral
+1358,160,16,2023-06-16,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1359,784,5,2024-12-30,3,Good product overall but the price is a bit high.,0.2382,Mixed Positive
+1360,655,1,2024-03-06,5,"Perfect for my needs, very happy with this purchase.",0.8268,Positive
+1361,331,16,2024-03-30,5,"Excellent product, works exactly as described.",0.5719,Positive
+1362,687,17,2024-07-15,4,"Absolutely love this product, exceeded my expectations!",0.6989,Positive
+1363,362,14,2023-01-16,1,Disappointed with the performance of this item.,-0.4767,Negative
